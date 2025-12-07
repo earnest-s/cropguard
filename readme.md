@@ -89,10 +89,6 @@ An **Intelligent Crop Monitoring System** uses IoT sensor data and automated dat
 * `requirements.txt` – Lists Python dependencies (e.g., pandas, requests, BeautifulSoup).
 * `readme.md` – (This file) Project documentation.
 
-## License
-
-This project currently has **no license file**. 
-
 ## Contributing
 
 Contributions are welcome! If you find bugs or have ideas for improvements, please open an issue or pull request on the GitHub repository. You can contribute by:
