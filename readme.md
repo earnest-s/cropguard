@@ -101,4 +101,4 @@ Please make sure your code follows the existing style and includes documentation
 
 ## Contact / Author
 
-This project was created by **Earnest S** (GitHub username: *snipergib*). For questions or collaboration, you can open an issue on GitHub or reach out via my GitHub profile. Additional information about my work is available on my [portfolio](http://earni.onrender.com).
+This project was created by **Earnest S** (GitHub username: *snipergib*). For questions or collaboration, you can open an issue on GitHub or reach out via my GitHub profile. Additional information about my work is available on my [portfolio](http://earnest-s.tech).
