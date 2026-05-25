@@ -1,6 +1,6 @@
-# Intelligent Crop Monitoring System
+# CropGuard
 
-An **Intelligent Crop Monitoring System** uses IoT sensor data and automated data processing to help farmers and agritech professionals continuously monitor crop conditions and make data-driven decisions. It collects environmental parameters (such as air temperature, humidity, soil moisture, light levels, etc.) and processes them in real time.  By combining Python analytics with tools like Power BI, it can **predict crop health, reduce waste, and visualize trends via dashboards**.  Such systems automate routine data tasks and improve productivity – in one study, continuous IoT-based monitoring was shown to yield **“improved crop yield and productivity” with negligible human intervention**.  This project is aimed at farmers, agronomists, or researchers who need a smart, automated solution for tracking crop and environmental data over time.
+An **CropGuard** uses IoT sensor data and automated data processing to help farmers and agritech professionals continuously monitor crop conditions and make data-driven decisions. It collects environmental parameters (such as air temperature, humidity, soil moisture, light levels, etc.) and processes them in real time.  By combining Python analytics with tools like Power BI, it can **predict crop health, reduce waste, and visualize trends via dashboards**.  Such systems automate routine data tasks and improve productivity – in one study, continuous IoT-based monitoring was shown to yield **“improved crop yield and productivity” with negligible human intervention**.  This project is aimed at farmers, agronomists, or researchers who need a smart, automated solution for tracking crop and environmental data over time.
 
 ## Key Features
 
@@ -27,8 +27,8 @@ An **Intelligent Crop Monitoring System** uses IoT sensor data and automated dat
 1. **Clone the repository.**
 
    ```bash
-   git clone https://github.com/snipergib/IntelligentCropMonitoringSystem.git
-   cd IntelligentCropMonitoringSystem
+   git clone https://github.com/snipergib/cropguard.git
+   cd cropguard
    ```
 2. **Set up Python environment.** (Recommended) Create and activate a virtual environment:
 
